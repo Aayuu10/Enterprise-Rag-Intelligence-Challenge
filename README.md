@@ -36,7 +36,7 @@ The implementation is designed to satisfy the main challenge goals:
 | Vector Database | ChromaDB |
 | Metadata Store | SQLite |
 | Embeddings | sentence-transformers (`all-MiniLM-L6-v2`) |
-| LLM | Ollama (`phi3:mini` or `llama3.1:8b`) |
+| LLM | Ollama (`phi3:mini`) |
 | Data Processing | Pandas |
 | Testing | Pytest |
 
